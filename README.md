@@ -1,2 +1,2 @@
-# projects
+# Projects
 Completed / semi-completed projects
